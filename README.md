@@ -11,6 +11,7 @@
     - concat, pivot, transpose in Pandas
     - groupby, pivot_table, info, describe, value_counts
     - bar plot, line plot, scatter plot, lm plot, 히트맵, 상자수염그림, swarm plot, 도수분포표, 히스토그램 
+!(/image/전국 아파트 분양.png)
     
 ## 상가 정보로 기술 통계 값 보기
 - [주피터 노트북 보기](https://github.com/DAWUNHAN/DataAnalysisInPython/blob/master/%EC%83%81%EA%B6%8C%20%EC%A0%95%EB%B3%B4%20%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0.ipynb)    
@@ -48,3 +49,7 @@
 - 워크 클라우드를 이용하여 빈도수 표현하기
 - Pandas Profiling을 이용하여 인터렉션 기능 구현하기
 - 정규표현식을 활용해서 텍스트 데이터 전처리와 데이터 마스킹 기법 활용.
+
+```python
+
+```

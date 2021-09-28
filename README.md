@@ -35,3 +35,16 @@
 
 ## 스타벅스와 이디야 매장 위치 상관 관계 분석
 - [주피터 노트북 보기](https://github.com/DAWUNHAN/DataAnalysisInPython/blob/master/%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4%20%EC%9D%B4%EB%94%94%EC%95%84%20%EB%A7%A4%EC%9E%A5%20%EC%9C%84%EC%B9%98%20%EB%B6%84%EC%84%9D.ipynb)
+- 데이터 출처 : https://www.data.go.kr/dataset/15012005/fileData.do
+- 구별로 매장수를 표현하기 위해 GeoJSON 파일 로드
+- folium을 이용하여 지도 위에 데이터 시각화 하기
+- JSON파일을 로드하여 choropleth 구현하기
+- 데이터에 따라 지도 위 다른 색상으로 직관적으로 표현하기
+- groupby, pivot_table 등 데이터 전처리 하기
+
+## 전국 도시 공원 데이터 분석
+- [주피터 노트북 보기](https://github.com/DAWUNHAN/DataAnalysisInPython/blob/master/%EC%A0%84%EA%B5%AD%20%EB%8F%84%EC%8B%9C%EA%B3%B5%EC%9B%90%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.ipynb)
+- 데이터 출처 : https://www.data.go.kr/dataset/15012890/standard.do
+- 워크 클라우드를 이용하여 빈도수 표현하기
+- Pandas Profiling을 이용하여 인터렉션 기능 구현하기
+- 정규표현식을 활용해서 텍스트 데이터 전처리와 데이터 마스킹 기법 활용.

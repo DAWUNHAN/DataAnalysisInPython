@@ -14,7 +14,7 @@
 <img src="https://github.com/DAWUNHAN/DataAnalysisInPython/blob/master/image/%EC%A0%84%EA%B5%AD%20%EC%95%84%ED%8C%8C%ED%8A%B8%20%EB%B6%84%EC%96%91.png?raw=true"></img>
 
 
-    
+
 ## 상가 정보로 기술 통계 값 보기
 - [주피터 노트북 보기](https://github.com/DAWUNHAN/DataAnalysisInPython/blob/master/%EC%83%81%EA%B6%8C%20%EC%A0%95%EB%B3%B4%20%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0.ipynb)    
 - 데이터 출처 : 공공데이터포털 소상공인 상권정보 상가업소 데이터
@@ -42,7 +42,7 @@
 
 
 ## 스타벅스와 이디야 매장 위치 상관 관계 분석
-- [주피터 노트북 보기](https://github.com/DAWUNHAN/DataAnalysisInPython/blob/master/%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4%20%EC%9D%B4%EB%94%94%EC%95%84%20%EB%A7%A4%EC%9E%A5%20%EC%9C%84%EC%B9%98%20%EB%B6%84%EC%84%9D.ipynb)
+- [주피터 노트북 보기](https://github.com/DAWUNHAN/DataAnalysisInPython/blob/master/%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4%20%EC%9D%B4%EB%94%94%EC%95%BC%20%EB%A7%A4%EC%9E%A5%20%EC%9C%84%EC%B9%98%20%EB%B6%84%EC%84%9D.ipynb)
 - 데이터 출처 : https://www.data.go.kr/dataset/15012005/fileData.do
 - 구별로 매장수를 표현하기 위해 GeoJSON 파일 로드
 - folium을 이용하여 지도 위에 데이터 시각화 하기
